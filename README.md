@@ -37,7 +37,7 @@ Wagner and Whitin developed an algorithm for finding the optimal solution by dyn
 The idea is to understand each month if adding the current month's demand quantity to past months' orders can be more economic than setting up a new cycle of production.
 
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/828/1*UBJpFl8kb7J3s8SytsWPcw.png">
+  <img width=60% align="center" src="https://miro.medium.com/max/828/1*UBJpFl8kb7J3s8SytsWPcw.png">
 </p>
 
 ## Code
