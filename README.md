@@ -12,6 +12,11 @@ Use python to design an optimal production plan to meet customer demand and mini
 In this [Article](https://www.samirsaci.com/production-fixed-horizon-planning-with-python/), we will implement optimal production planning using 
 the Wagner-Whitin method with python.
 
+### Youtube Video
+Click on the image below to access a full tutorial video to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=130AKb2DejM"><img src="https://i.ytimg.com/vi/130AKb2DejM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFTyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB14U22DUisLrmIqh5gCIlzVNGAog" alt="Explainer Video Link"></a>
+</div>
 
 ### Scenario
 You are a production planning manager in a small factory producing radio equipment that serves local and international markets.
