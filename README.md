@@ -12,6 +12,9 @@ Use python to design an optimal production plan to meet customer demand and mini
 In this [Article](https://www.samirsaci.com/production-fixed-horizon-planning-with-python/), we will implement optimal production planning using 
 the Wagner-Whitin method with python.
 
+### 📘 Your complete guide for Supply Chain Analytics
+60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
+
 ### Youtube Video
 Click on the image below to access a full tutorial video to understand the concept behind this solution
 <div align="center">
