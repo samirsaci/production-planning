@@ -9,7 +9,7 @@
 Use python to design an optimal production plan to meet customer demand and minimize the total production costs.
 
 ### Article
-In this [Article](https://towardsdatascience.com/production-fixed-horizon-planning-with-python-8dd38b468e86), we will implement optimal production planning using 
+In this [Article](https://medium.com/towards-data-science/production-fixed-horizon-planning-with-python-8dd38b468e86), we will implement optimal production planning using 
 the Wagner-Whitin method with python.
 
 ### 📘 Your complete guide for Supply Chain Analytics
