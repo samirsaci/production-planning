@@ -1,16 +1,21 @@
 ## Production Fixed Horizon Planning with Python 🏭
-*Implement the Wagner-Whitin algorithm to minimize the total costs of production given a set of constraints*
+*Implement the Wagner-Whitin algorithm to minimise the total costs of production given a set of constraints*
 
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/786/1*0gFQPmIuKcGLL7j9G3geQw.png">
+  <a href="https://www.samirsaci.com/production-fixed-horizon-planning-with-python/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://miro.medium.com/max/786/1*0gFQPmIuKcGLL7j9G3geQw.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
 
 ### Objective
-Use python to design an optimal production plan to meet customer demand and minimize the total production costs.
+Use Python to design an optimal production plan that meets customer demand and minimises total production costs.
 
 ### Article
-In this [Article](https://medium.com/towards-data-science/production-fixed-horizon-planning-with-python-8dd38b468e86), we will implement optimal production planning using 
-the Wagner-Whitin method with python.
+In this [Article](https://www.samirsaci.com/production-fixed-horizon-planning-with-python/), we will implement optimal production planning using the Wagner-Whitin method with Python.
 
 ### 📘 Your complete guide for Supply Chain Analytics
 60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
@@ -22,9 +27,9 @@ Click on the image below to access a full tutorial video to understand the conce
 </div>
 
 ### Scenario
-You are a production planning manager in a small factory producing radio equipment that serves local and international markets.
+You are a production planning manager at a small factory producing radio equipment for local and international markets.
 
-Customers send Purchase Orders (PO) to your commercial team with quantities and expected delivery dates.
+Customers submit Purchase Orders (POs) to your commercial team, including quantities and expected delivery dates.
 
 Your role is to schedule production to deliver on time with a minimum total cost of production that includes
 
@@ -38,7 +43,7 @@ Your role is to schedule production to deliver on time with a minimum total cost
 </p>
 
 #### Wagner-Whitin Algorithm
-This problem can be seen as a generalization of the economic order quantity model that takes into account that demand for the product varies over time.
+This problem can be seen as a generalisation of the economic order quantity model that takes into account that demand for the product varies over time.
 
 Wagner and Whitin developed an algorithm for finding the optimal solution by dynamic programming.
 
@@ -49,10 +54,9 @@ The idea is to understand each month if adding the current month's demand quanti
 </p>
 
 ## Code
-This repository code you will find all the code used to explain the concepts presented in the article.
+In this repository, you will find all the code used to explain the concepts presented in the article.
 
 ## About me 🤓
-Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)
-
+Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations.\
+For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)\
 Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
