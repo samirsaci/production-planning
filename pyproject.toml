@@ -1,6 +1,0 @@
-[project]
-name = "production-planning"
-version = "0.1.0"
-description = "Add your description here"
-requires-python = ">=3.10"
-dependencies = []
